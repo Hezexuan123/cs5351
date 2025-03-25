@@ -11,6 +11,7 @@ public class Test001 {
 			assertEquals(3, FloorSquareRoot.floorSqrt(11));
 		 assertEquals(3, FloorSquareRoot.floorSqrt(11));
 		 assertEquals(3, FloorSquareRoot.floorSqrt(11));
+		 assertEquals(3, FloorSquareRoot.floorSqrt(11));
 	 }
 
 	 @Test
